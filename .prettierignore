@@ -1,0 +1,29 @@
+# Ignore artifacts:
+dist
+coverage
+thunder-tests
+redis_data
+storage
+**/storage/**
+
+.next
+**/.next
+node_modules
+**/node_modules
+.yarn
+.out
+**/.out
+.turbo
+
+**/.git
+
+*.js
+
+*.yaml
+**/*.yaml
+*.yml
+**/*.yml
+**/templates/**
+
+# __tests__/**
+# **/__tests__/**
